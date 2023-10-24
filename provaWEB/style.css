@@ -1,0 +1,36 @@
+
+    body {
+        background-color: rgb(94, 246, 38);
+    }
+
+    h1 {
+        padding-top: 1em;
+        padding-bottom: 1em;
+        padding-left: 10px;
+        background-color: aquamarine;
+        font-style: oblique;
+        font-family:Verdana;
+    }
+
+    .info-background {
+        background-color: aquamarine;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        font-family:Verdana;
+    }
+
+    .atracoes {
+        background-color: aquamarine;
+        font-family:Verdana;
+        padding-bottom: 10px;
+        padding-left: 10px;
+    }
+
+    .contact {
+        background-color: aquamarine;
+        font-family:Verdana;
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+    }
